@@ -1,0 +1,17 @@
+# meow
+__pycache__/
+*.py[cod]
+*$py.class
+
+# environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# celery
+celerybeat-schedule
+celerybeat.pid
